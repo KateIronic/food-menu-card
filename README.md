@@ -30,5 +30,5 @@ This is a basic UI design for Restaurant Menu, in which we can catagries food it
 
 ## Demo
 
-You can take a live demo of my very first React website here-
-https://KateIronic.github.io/food-menu-card
+- [crypto-tracker](https://kateironic.github.io/food-menu-card)
+
